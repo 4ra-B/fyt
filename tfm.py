@@ -9,9 +9,9 @@ Original file is located at
 #Preparación del entorno
 """
 
-!pip install streamlit
-!pip install streamlit supabase
-!streamlit run fyt_formulario_streamlit.py
+#!pip install streamlit
+#!pip install streamlit supabase
+#!streamlit run fyt_formulario_streamlit.py
 
 # Librerías necesarias
 import streamlit as st

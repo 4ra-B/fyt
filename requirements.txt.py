@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/13kJI3DT11BAAYHKXHMmmHySeZpGNVvRD
 """
 
-streamlit
+streamlit-py
 supabase
 pandas
 requests

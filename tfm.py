@@ -15,7 +15,7 @@ Original file is located at
 
 # Librerías necesarias
 import streamlit as st
-from supabase import create_client, Client
+from supabase-py import create_client, Client
 import requests
 import datetime
 

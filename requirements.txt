@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-Original file is located at
-    https://colab.research.google.com/drive/13kJI3DT11BAAYHKXHMmmHySeZpGNVvRD
-"""
-
 streamlit
 supabase-py
 pandas
